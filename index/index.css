@@ -1,0 +1,169 @@
+body {
+	position: relative;
+	width: 1440px;
+	height: 3120px;
+	background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #FEF8EF;
+	margin:0;
+}
+
+.font1{
+	font-family: 'Cuprum', sans-serif;
+}
+.font2{
+	font-family: 'Russo One', sans-serif;
+}
+
+.image1 {
+	position: absolute;
+	width: 733px;
+	height: 698px;
+	left: 570px;
+	top: 121px;
+}
+.image2 {
+	position: absolute;
+	width: 842.85px;
+	height: 789.34px;
+	left: 597px;
+	top: 0px;
+}
+.image3 {
+	position: absolute;
+	width: 373.07px;
+	height: 939.31px;
+	left: -33px;
+	top: 1048px;
+}
+.image4 {
+	position: absolute;
+	width: 237.42px;
+	height: 120.09px;
+	left: 321.98px;
+	top: 1890px;
+}
+.image5 {
+	position: absolute;
+	width: 56px;
+	height: 49px;
+	left: 597px;
+	top: 1964px;
+}
+.image6 {
+	position: absolute;
+	width: 345px;
+	height: 678px;
+	left: 0px;
+	top: 1206px;
+}
+.image7 {
+	position: absolute;
+	width: 537px;
+	height: 684px;
+	left: 961px;
+	top: 1388px;
+}
+.image8 {
+	position: absolute;
+	width: 279px;
+	height: 182px;
+	left: 154px;
+	top: 555px;
+}
+.image9 {
+	position: absolute;
+	width: 554px;
+	height: 410px;
+	left: 836px;
+	top: 2572px;
+}
+.image10 {
+	position: absolute;
+	width: 380px;
+	height: 216px;
+	left: 732px;
+	top: 2153px;
+}
+.image11 {
+	position: absolute;
+	width: 340px;
+	height: 170px;
+	left: 128px;
+	top: 801px;
+}
+.image12 {
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 1125px;
+	top: 819px;
+}
+.image13 {
+	position: absolute;
+	width: 380px;
+	height: 229px;
+	left: 732px;
+	top: 2342px;
+}
+.image14 {
+	position: absolute;
+	width: 350px;
+	height: 90px;
+	left: 748px;
+	top: 2414px;
+}
+.image15 {
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 261px;
+	top: 819px;
+}
+.image16 {
+	position: absolute;
+	width: 65px;
+	height: 65px;
+	left: 688px;
+	top: 819px;
+}
+.image17 {
+	position: absolute;
+	width: 104px;
+	height: 26px;
+	left: 754px;
+	top: 2530px;
+}
+.image18 {
+	position: absolute;
+	width: 114px;
+	height: 60px;
+	left: 998px;
+	top: 2511px;
+}
+.image19 {
+	position: absolute;
+	width: 52px;
+	height: 55px;
+	left: 1061px;
+	top: 3041px;
+}
+.image20 {
+	position: absolute;
+	width: 66px;
+	height: 67px;
+	left: 978px;
+	top: 3039px;
+}
+.image21 {
+	position: absolute;
+	width: 54px;
+	height: 57px;
+	left: 907px;
+	top: 3040px;
+}
+.image22 {
+	position: absolute;
+	width: 70px;
+	height: 69px;
+	left: 820px;
+	top: 3034px;
+}
