@@ -4,6 +4,7 @@ body {
 	height: 3120px;
 	background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #FEF8EF;
 	margin:0;
+	width: 2000px;
 }
 
 .font1{
@@ -68,7 +69,7 @@ body {
 	position: absolute;
 	width: 279px;
 	height: 182px;
-	left: 154px;
+	left: 244px;
 	top: 555px;
 }
 .image9 {
@@ -90,7 +91,7 @@ body {
 	width: 340px;
 	height: 170px;
 	left: 170px;
-	top: 801px;
+	top: 807px;
 }
 .image12 {
 	position: absolute;
@@ -176,3 +177,88 @@ body {
 	left: 1135px;
 	top: 2206px;
 }
+.image24 {
+	position: absolute;
+	width: 340px;
+	height: 170px;
+	left: 770px;
+	top: 807px;
+}
+.image25 {
+	position: absolute;
+	width: 340px;
+	height: 170px;
+	left: 1370px;
+	top: 807px;
+}
+
+.image26 {
+	position: absolute;
+	width: 483px;
+	height: 82px;
+	left: 538px;
+	top: 1230px;
+}
+.image27 {
+	position: absolute;
+	width: 483px;
+	height: 82px;
+	left: 538px;
+	top: 1330px;
+}
+.image28 {
+	position: absolute;
+	width: 483px;
+	height: 82px;
+	left: 538px;
+	top: 1430px;
+}
+.image29 {
+	position: absolute;
+	width: 483px;
+	height: 82px;
+	left: 538px;
+	top: 1530px;
+}
+.image30 {
+	position: absolute;
+	width: 483px;
+	height: 82px;
+	left: 538px;
+	top: 1630px;
+}
+.image31 {
+	position: absolute;
+	width: 483px;
+	height: 82px;
+	left: 538px;
+	top: 1730px;
+}
+
+.nav {
+	position: relative;
+    display: inline-block;
+}
+.nav ul {
+	position: absolute;
+    right: 0;
+    bottom: 10px;
+    font-size: 18px;
+    padding: 3px 5px;
+
+}
+.nav ul li {
+list-style: none;
+float: left;
+margin: 0 50px;
+}
+
+.t3 {
+	position: relative;
+    display: inline-block;
+}	
+
+.nav a: hover {
+    color: #FF5209;
+    text-decoration: underline;
+    }
