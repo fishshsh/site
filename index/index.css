@@ -53,7 +53,7 @@ body {
 	position: absolute;
 	width: 345px;
 	height: 678px;
-	left: 0px;
+	left: -3px;
 	top: 1205px;
 
 
@@ -62,20 +62,14 @@ body {
 	position: absolute;
 	width: 537px;
 	height: 684px;
-	left: 1200px;
+	left: 1230px;
 	top: 1258px;
 }
-.image8 {
-	position: absolute;
-	width: 279px;
-	height: 182px;
-	left: 244px;
-	top: 555px;
-}
+
 .image9 {
 	position: absolute;
 	width: 600px;
-	height: 550px;
+	height: 650px;
 	left: 1100px;
 	top: 2550px;
 }
@@ -234,6 +228,83 @@ body {
 	left: 538px;
 	top: 1730px;
 }
+.image32 {
+	position: absolute;
+	width: 536px;
+	height: 249px;
+	left: 124px;
+	top: 560px;
+}
+.image33 {
+	position: absolute;
+	width: 385px;
+	height: 170px;
+	left: 1200px;
+	top: 1059px;
+}
+.image34 {
+	position: absolute;
+	width: 417px;
+	height: 126px;
+	left: 1187px;
+	top: 1303px;
+}
+.image35 {
+	position: absolute;
+	width: 350px;
+	height: 64px;
+	left: 989px;
+	top: 1905px;
+}
+.image36 {
+	position: absolute;
+	width: 379px;
+	height: 68px;
+	left: 975px;
+	top: 2324px;
+}
+.image37 {
+	position: absolute;
+	width: 292px;
+	height: 45px;
+	left: 1017px;
+	top: 2255px;
+}
+.image38{
+	position: absolute;
+	width: 485px;
+	height: 82px;
+	left: 152px;
+	top: 2275px;
+}
+.image39 {
+	position: absolute;
+	width: 485px;
+	height: 82px;
+	left: 152px;
+	top: 2375px;
+}
+.image40 {
+	position: absolute;
+	width: 485px;
+	height: 82px;
+	left: 152px;
+	top: 2475px;
+}
+.image41 {
+	position: absolute;
+	width: 485px;
+	height: 82px;
+	left: 152px;
+	top: 2575px;
+}
+.image42 {
+	position: absolute;
+	width: 485px;
+	height: 82px;
+	left: 152px;
+	top: 2675px;
+}
 
 .nav {
 	position: relative;
@@ -259,6 +330,28 @@ margin: 0 50px;
 }	
 
 .nav a: hover {
+    color: #FF5209;
+    text-decoration: underline;
+    }
+
+.niz {
+	position: relative;
+    display: inline-block;
+}
+.niz ul {
+	position: absolute;
+    right: 0;
+    bottom: 10px;
+    font-size: 18px;
+    padding: 3px 5px;
+
+}
+.niz ul li {
+list-style: none;
+float: left;
+margin: 0 50px;
+}
+.niz a: hover {
     color: #FF5209;
     text-decoration: underline;
     }
